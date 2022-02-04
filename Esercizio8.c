@@ -31,4 +31,5 @@ int main()
         printf("Il programma è terminato perchè è impossibile effettuare la radice quadrata di un numero negativo \n");
     }
     printf("La somma totale è %f \n", somma);
+    return 0;
 }
